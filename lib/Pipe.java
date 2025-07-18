@@ -49,7 +49,7 @@ public class Pipe {
 
 	/**
 	 * Checks for bird colliding with pipe
-	 * 
+	 *
 	 * @param  nX     Bird x-coordinate
 	 * @param  nY     Bird y-coordinate
 	 * @param  nW     Bird width
@@ -63,7 +63,7 @@ public class Pipe {
 			return true;
 		}
 
-		return nX < x + WIDTH && 
+		return nX < x + WIDTH &&
 				nX + nW > x &&
 				nY < y + HEIGHT &&
 				nY + nH > y;
@@ -86,7 +86,7 @@ public class Pipe {
 
 	/**
 	 * Set's pipe's y-coordinate (for bottom pipes)
-	 * 
+	 *
 	 * @param newY     New y-coordinate
 	 */
 	public void setY (int newY) {

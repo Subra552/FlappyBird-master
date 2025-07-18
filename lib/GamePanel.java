@@ -269,9 +269,9 @@ public class GamePanel extends JPanel implements KeyListener, MouseListener {
 			textures.get("rateButton").getY(), null);
 
 		// Credits :p
-		drawCentered("Created by Paul Krishnamurthy", FlappyBird.WIDTH, FlappyBird.HEIGHT, 600, g);
+		drawCentered("Created by Bubu Sinha", FlappyBird.WIDTH, FlappyBird.HEIGHT, 600, g);
 		g.setFont(flappyMiniFont); // Change font
-		drawCentered("www.PaulKr.com", FlappyBird.WIDTH, FlappyBird.HEIGHT, 630, g);
+		drawCentered("www.BubuLaal.com", FlappyBird.WIDTH, FlappyBird.HEIGHT, 630, g);
 
 	}
 
