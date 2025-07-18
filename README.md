@@ -1,15 +1,23 @@
-Flappy-Bird
-===========
+# Flappy Bird Clone in Java
 
-A flappy bird clone written in Java, for the ICS4U Simple Game Assignment.
+![Flappy Bird Gameplay](https://media.tenor.com/wmVzP2r1dWoAAAAM/rilakkumas-theme-park-adventure-kiiroitori.gif.gif)
 
-<img src="https://raw.githubusercontent.com/paulkr/Flappy-Bird/master/demo.png" width="500" />
+A classic Flappy Bird game clone built using Java and the Swing library. The objective is to navigate the bird through the pipes without crashing.
 
-Build & Run
------------
+## ✨ Features
 
-```shell
-$ cd lib
-$ javac FlappyBird.java
-$java FlappyBird
-```
+-   Classic Flappy Bird mechanics: tap to flap!
+-   Dynamic pipe generation for an endless challenge.
+-   Score tracking to compete for the high score.
+-   Game over and restart functionality.
+
+## 🛠️ Technologies Used
+
+-   **Java**: The core programming language.
+-   **Java Swing**: Used for creating the graphical user interface (GUI) and rendering the game.
+
+## 🚀 How to Run
+
+1.  **Prerequisites**: Make sure you have Java Development Kit (JDK) installed on your system.
+2.  **Clone the repository**:
+3. **Run the application**
